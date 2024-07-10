@@ -72,9 +72,9 @@ DEVELOPER :Mohammad Rahat
 
 https://www.facebook.com/rahat.islam87
 
-🔵WHATSAPP NUMBER: wa.me/+88018###
+🔵WHATSAPP NUMBER: wa.me/dimu na
 
-🟢SUPPORT EMAIL: mohammadrahat@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+🟢SUPPORT EMAIL: mohammadrahat4@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
     console.error(error);
@@ -184,4 +184,4 @@ https://www.facebook.com/rahat.islam87
       }
     } catch (e) { return console.log(e) };
   }
-                         }
+        }
