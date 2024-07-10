@@ -3,7 +3,7 @@ Qmodule.exports.config = {
   version: "2.0.0",
   permission: 0,
   prefix: true,
-  credits: "Rahat",
+  credits: "farhan",
   description: "Sends a hug image",
   category: "img",
   usage: "[@mention]",
@@ -79,4 +79,4 @@ module.exports.run = async function ({ event, api }) {
       return api.sendMessage("An error occurred while generating the image.", threadID, messageID);
     }
   }
-}
+      }
